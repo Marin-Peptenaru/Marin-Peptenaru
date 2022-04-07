@@ -1,8 +1,8 @@
 - Hi, I’m @Marin-Peptenaru
 
-- I’m interested in Flutter, Dart, declarative and functional programming, 
+- My main interests are bakcend engineering, web technologies and web applications architecture. 
 
-- I’m currently learning Flutter and Angular
+- I am currently studying blockchain technologies, specifically Ethereum and Solidity, web technologies for Golang, reverse proxying and load balancing, specifically HAProxy.
 
 - How to reach me:
 - skype : https://join.skype.com/invite/FjKyJ4m1NdrS
